@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Bobby Shoemaker</o:Author>
   <o:LastAuthor>Bobby Shoemaker</o:LastAuthor>
-  <o:Revision>10</o:Revision>
-  <o:TotalTime>15</o:TotalTime>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>9</o:TotalTime>
   <o:Created>2018-09-17T00:36:00Z</o:Created>
-  <o:LastSaved>2018-09-17T00:51:00Z</o:LastSaved>
+  <o:LastSaved>2018-09-17T00:45:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>193</o:Words>
-  <o:Characters>1103</o:Characters>
+  <o:Words>191</o:Words>
+  <o:Characters>1089</o:Characters>
   <o:Lines>9</o:Lines>
   <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1294</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1278</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -757,96 +757,71 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>CS3332: Software
-Engineering<o:p></o:p></span></b></p>
+normal'>CS3332: Software Engineering<o:p></o:p></b></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Fall 2018<o:p></o:p></span></b></p>
+normal'>Fall 2018<o:p></o:p></b></p>
 
 <p class=MsoNormal style='line-height:150%'><span class=SpellE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-150%'>TTh</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:11.0pt;line-height:150%'> 11:00 AM – 12:15 PM<o:p></o:p></span></b></p>
+style='mso-bidi-font-weight:normal'>TTh</b></span><b style='mso-bidi-font-weight:
+normal'> 11:00 AM – 12:15 PM<o:p></o:p></b></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>MSCX 114<o:p></o:p></span></b></p>
+normal'>MSCX 114<o:p></o:p></b></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><u><span style='font-size:11.0pt;line-height:150%'>_____________________________________________________________________________________<o:p></o:p></span></u></b></p>
+normal'><u>______________________________________________________________________________<o:p></o:p></u></b></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Class information<o:p></o:p></span></b></p>
+normal'>Class information<o:p></o:p></b></p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Instructor: Vasanth <span class=SpellE>Iyer</span><o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Instructor: Vasanth <span
+class=SpellE>Iyer</span></p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Class Days and Time: Tuesday and Thursday 11:00 AM - 12:15 PM
-<o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Class Days and Time: Tuesday and
+Thursday 11:00 AM - 12:15 PM </p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Term of Course: FALL 2018, 08/13/2018 - 12/01/2018 -Lecture <o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Term of Course: FALL 2018,
+08/13/2018 - 12/01/2018 -Lecture </p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Class Location: MSCX 114 <o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Class Location: MSCX 114 </p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Instructor Office Location and Hours: 337-B <o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Instructor Office Location and
+Hours: 337-B </p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>MWF 10:00-12:00 PM or by appointment <o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>MWF 10:00-12:00 PM or by
+appointment </p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Instructor Contact: <span class=SpellE>ph</span>: xxx-xxx-<span
-class=SpellE>xxxx</span>, e-mail: <a href="mailto:viyer@troy.edu">viyer@troy.edu</a>
-<o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Instructor Contact: <span
+class=SpellE>ph</span>: xxx-xxx-<span class=SpellE>xxxx</span>, e-mail: <a
+href="mailto:viyer@troy.edu">viyer@troy.edu</a> </p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><u><span style='font-size:11.0pt;line-height:150%'>_____________________________________________________________________________________<o:p></o:p></span></u></b></p>
+normal'><u>______________________________________________________________________________<o:p></o:p></u></b></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Course Information <o:p></o:p></span></b></p>
+normal'>Course Information <o:p></o:p></b></p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Credit Hours: 3 <o:p></o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Course Description and
-Objectives: <o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>Topics are presented that focus on the design and development
-techniques for large <span class=GramE>high quality</span> software<o:p></o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>systems. Topics include software development models,
-requirement analysis, project planning and<o:p></o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>management, software architecture and design, implementation,
-and testing and validation.<o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Credit Hours: 3 </p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Textbook: </span></b><span
-style='font-size:11.0pt;line-height:150%'>Software Engineering: 10th Edition by
-Ian Sommerville. ISBN-13: 978- 0078022128, ISBN-<o:p></o:p></span></p>
+normal'>Course Description and Objectives: <o:p></o:p></b></p>
 
-<p class=MsoNormal style='line-height:150%'><span style='font-size:11.0pt;
-line-height:150%'>10: 0078022126 <o:p></o:p></span></p>
-
-<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Reference:</span></b><span
-style='font-size:11.0pt;line-height:150%'> Mark Dowd, John McDonald, Justin
-Schuh: The Art of Software Security<o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'>Topics are presented that focus on
+the design and development techniques for large <span class=GramE>high quality</span>
+software systems. Topics include software development models, requirement
+analysis, project planning and management, software architecture and design,
+implementation, and testing and validation.</p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Assessment:</span></b><span
-style='font-size:11.0pt;line-height:150%'> Identifying and Preventing Software
-Vulnerabilities. ISBN-13: 978-032144 <o:p></o:p></span></p>
+normal'>Textbook: </b>Software Engineering: 10th Edition by Ian Sommerville.
+ISBN-13: 978- 0078022128, ISBN-10: 0078022126 </p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:11.0pt;line-height:150%'>Prerequisite:</span></b><span
-style='font-size:11.0pt;line-height:150%'> CS 3310 and 3330.<o:p></o:p></span></p>
+normal'>Reference:</b> Mark Dowd, John McDonald, Justin Schuh: The Art of
+Software Security <b style='mso-bidi-font-weight:normal'>Assessment:</b>
+Identifying and Preventing Software Vulnerabilities. ISBN-13: 978-032144 <b
+style='mso-bidi-font-weight:normal'>Prerequisite:</b> CS 3310 and 3330.</p>
 
 <p class=MsoNormal style='line-height:200%'><o:p>&nbsp;</o:p></p>
 
